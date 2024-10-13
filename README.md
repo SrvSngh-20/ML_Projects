@@ -1,12 +1,12 @@
-# ML_Projects
-Health Insurance Premium Prediction Project 🚀
+# Health Insurance Premium Prediction Project 🚀
 
 
+Overview:
 
-Overview
 This project is a machine learning-based predictive model developed to estimate health insurance premiums based on various customer factors such as age, dependents, gender, and plan type. The model is built using Linear Regression and XGBoost Regressor and has achieved an impressive 98% accuracy. The predictive engine is deployed with a user-friendly Streamlit interface and hosted on the cloud to enable real-time, scalable premium predictions for insurance underwriters.
 
-Project Objective
+Project Objective:
+
 The primary goal of this project was to create a high-accuracy predictive model that:
 1. Achieves 97%+ accuracy in estimating health insurance premiums.
 2. Provides a user-friendly interface via a Streamlit app for underwriters to input customer details and instantly receive premium predictions.
